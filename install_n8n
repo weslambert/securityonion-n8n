@@ -21,7 +21,7 @@ so-nginx-restart --force
 # Apply common state to pull in utility scripts
 salt-call saltutil.kill_all_jobs && salt-call state.apply common
 
-# Start Velociraptor
+# Start n8n
 so-n8n-start --force
 
 # Copy top file - TODO
