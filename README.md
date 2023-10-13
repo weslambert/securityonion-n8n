@@ -1,5 +1,7 @@
 # securityonion-n8n
-Install n8n on Security Onion to assist with automating context gathering and response.
+Install n8n on Security Onion 2.3 to assist with automating context gathering and response.
+
+NOTE: THIS IS ONLY SUPPORTED FOR SECURITY ONION 2.3, AND WILL NOT WORK ON THE LATEST VERSION OF SECURITY ONION
 
 ### Overview
 This script and the accompanying components will setup n8n on [Security Onion (2)](https://github.com/Security-Onion-Solutions/securityonion).
